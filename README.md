@@ -12,7 +12,7 @@ The colour cameras need their offsets manually determining. This is where I keep
 |C-DA3063854|1035|-4,81|
 
 JSON code:
-```{'C-DA3075132':[-16, -52],'C-DA3075143':[25,51],'C-DA3063854':[-4,81]}```
+```{"C-DA3075132":[-16, -52],"C-DA3075143":[25,51],"C-DA3063854":[-4,81]}```
 
 
 
