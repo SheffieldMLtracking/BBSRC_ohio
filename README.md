@@ -17,5 +17,19 @@ Compute by finding point in colour image, and subtracting location in greyscale 
 JSON code:
 ```{"C-DA3075132":[-16, -52],"C-DA3075143":[25,51],"C-DA3063854":[-4,81]}```
 
+# Box Status
 
-
+| Box | to do |
+|-----|-------|
+|1030 | update btretrodetect; fix offsets |x
+|1031 | update btretrodetect; fix offsets |x
+|1032 | update btretrodetect; fix offsets |x
+|1033 | update btretrodetect; fix offsets |x
+|1034 | test |x
+|1035 | test |x
+|1037 | update btretrodetect; fix offsets |x
+|1039 | update btretrodetect; fix offsets |x
+|---|---|
+|1036 | ? |
+|1038 | ? |
+|1040 | ? |
