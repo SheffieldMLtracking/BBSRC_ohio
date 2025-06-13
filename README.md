@@ -8,14 +8,19 @@ Compute by finding point in colour image, and subtracting location in greyscale 
 
 | Camera | Box | Offset |
 |--------|-----|--------|
+|?|1030|26|65|
+|?|1031|66|72|
+|?|1032|29|37|
 |C-DA3075132|1033|-16, -52|
-|C-DA3075143|1034|25,51|
-|C-DA3063854|1035|-4,81|
+|C-DA3075143|1034|24,48|
+|C-DA3063854|1035|-6,89|
+|C-DA3063853|1037|22,6|
+|?|1039|6,15|
 
 (offset gives how far point in colour image is from the greyscale).
 
 JSON code:
-```{"C-DA3075132":[-16, -52],"C-DA3075143":[25,51],"C-DA3063854":[-4,81]}```
+```{"C-DA3075132":[-16, -52],"C-DA3075143":[24,48],"C-DA3063854":[-6,89],"C-DA3063853":[22,6]}```
 
 # Box Status
 
